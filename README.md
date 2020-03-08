@@ -11,3 +11,7 @@ https://www.ijarcce.com/upload/2014/may/IJARCCE5A%20%20a%20jagroop%20%20A%20Revi
 https://www.programcreek.com/python/example/89391/cv2.fastNlMeansDenoising
 https://www.google.com/search?q=remove+horizontal+noise+opencv+python&rlz=1C1MSIM_enTR821TR821&oq=remove+horizontal+noise+opencv+python&aqs=chrome..69i57j0l2.7959j0j7&sourceid=chrome&ie=UTF-8
 https://www.learnopencv.com/non-photorealistic-rendering-using-opencv-python-c/
+
+https://medium.com/illuin/cleaning-up-dirty-scanned-documents-with-deep-learning-2e8e6de6cfa6
+https://www.kaggle.com/c/denoising-dirty-documents/notebooks
+https://github.com/halachkin/Denoising-Dirty-Documents
