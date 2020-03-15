@@ -15,3 +15,5 @@ https://www.learnopencv.com/non-photorealistic-rendering-using-opencv-python-c/
 https://medium.com/illuin/cleaning-up-dirty-scanned-documents-with-deep-learning-2e8e6de6cfa6
 https://www.kaggle.com/c/denoising-dirty-documents/notebooks
 https://github.com/halachkin/Denoising-Dirty-Documents
+
+https://medium.com/cashify-engineering/improve-accuracy-of-ocr-using-image-preprocessing-8df29ec3a033
